@@ -20,7 +20,6 @@ const styles = {
 		backgroundColor: '#bac3cc',
 		justifyContent: 'center', 
 		alignItems: 'center',
-		marginTop: 24,
 		height: 60,
 		padding: 15,
 		shadowColor: '#000',
